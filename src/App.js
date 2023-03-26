@@ -1,5 +1,4 @@
 import React, { useEffect, useState, useRef } from 'react';
-import logo from './logo.svg';
 import './App.scss';
 import {AddPeople, Person} from './AddPeople';
 import {AddItems, Item} from './AddItems';
