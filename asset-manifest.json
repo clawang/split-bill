@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/split-bill/static/css/main.5160837c.css",
+    "main.css": "/split-bill/static/css/main.7fab8b56.css",
     "main.js": "/split-bill/static/js/main.f7cf66a5.js",
     "static/js/787.55d033b0.chunk.js": "/split-bill/static/js/787.55d033b0.chunk.js",
     "static/media/bg2.jpeg": "/split-bill/static/media/bg2.efb608c326ccda734c55.jpeg",
@@ -10,12 +10,12 @@
     "static/media/EuclidFlex-Bold.otf": "/split-bill/static/media/EuclidFlex-Bold.f1cc2dbc8715523a0dd8.otf",
     "static/media/agipomono-regular.otf": "/split-bill/static/media/agipomono-regular.ed9bd9f59133606b1154.otf",
     "index.html": "/split-bill/index.html",
-    "main.5160837c.css.map": "/split-bill/static/css/main.5160837c.css.map",
+    "main.7fab8b56.css.map": "/split-bill/static/css/main.7fab8b56.css.map",
     "main.f7cf66a5.js.map": "/split-bill/static/js/main.f7cf66a5.js.map",
     "787.55d033b0.chunk.js.map": "/split-bill/static/js/787.55d033b0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5160837c.css",
+    "static/css/main.7fab8b56.css",
     "static/js/main.f7cf66a5.js"
   ]
 }
