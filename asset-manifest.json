@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/split-bill/static/css/main.7fab8b56.css",
-    "main.js": "/split-bill/static/js/main.f7cf66a5.js",
+    "main.css": "/split-bill/static/css/main.83cef75d.css",
+    "main.js": "/split-bill/static/js/main.c5e6a2d8.js",
     "static/js/787.55d033b0.chunk.js": "/split-bill/static/js/787.55d033b0.chunk.js",
     "static/media/bg2.jpeg": "/split-bill/static/media/bg2.efb608c326ccda734c55.jpeg",
     "static/media/bg.jpeg": "/split-bill/static/media/bg.10e9eda52666d562ef39.jpeg",
@@ -10,12 +10,12 @@
     "static/media/EuclidFlex-Bold.otf": "/split-bill/static/media/EuclidFlex-Bold.f1cc2dbc8715523a0dd8.otf",
     "static/media/agipomono-regular.otf": "/split-bill/static/media/agipomono-regular.ed9bd9f59133606b1154.otf",
     "index.html": "/split-bill/index.html",
-    "main.7fab8b56.css.map": "/split-bill/static/css/main.7fab8b56.css.map",
-    "main.f7cf66a5.js.map": "/split-bill/static/js/main.f7cf66a5.js.map",
+    "main.83cef75d.css.map": "/split-bill/static/css/main.83cef75d.css.map",
+    "main.c5e6a2d8.js.map": "/split-bill/static/js/main.c5e6a2d8.js.map",
     "787.55d033b0.chunk.js.map": "/split-bill/static/js/787.55d033b0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fab8b56.css",
-    "static/js/main.f7cf66a5.js"
+    "static/css/main.83cef75d.css",
+    "static/js/main.c5e6a2d8.js"
   ]
 }
